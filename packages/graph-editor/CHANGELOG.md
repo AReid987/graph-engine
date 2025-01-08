@@ -1,5 +1,11 @@
 # @tokens-studio/graph-editor
 
+## 4.3.12
+
+### Patch Changes
+
+- d9af659: Remove slide animation
+
 ## 4.3.11
 
 ### Patch Changes
